@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Soria";
+    src: url("soria-font.ttf") format("ttf");
+}
+@font-face{
+    font-family: 'Pigeon';
+    src: url("Pigeon.otf") format('opentype');
+}
+@font-face{
+    font-family: "couture";
+    src: 
+    local("couture")
+    url("./couture/couture-bld.ttf") format('ttf'),
+    url("./couture/couture-bld.otf") format("opentype");
+}
